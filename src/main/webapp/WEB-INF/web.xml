@@ -35,7 +35,7 @@
 		<servlet-class>com.sun.jersey.spi.container.servlet.ServletContainer</servlet-class>
 		<init-param>
 			<param-name>com.sun.jersey.config.property.packages</param-name>
-			<param-value>org.wy.ccnu.edu.webservice</param-value>
+			<param-value>org.nercel.ccnu.edu.webservice</param-value>
 		</init-param>
 		<!-- 返回List时，一条或多条数据都为数组，没有key 格式为[{...},{...}] -->
 		<init-param>
